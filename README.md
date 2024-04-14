@@ -12,7 +12,7 @@ House prices in major Canadian cities showed substantial differences and raised 
 •	What privacy laws need to be adhered to when collecting, storing, and analyzing housing market data?
 
 # Data
-The data set is sourced from Kaggle https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities and is collected by the author from 2021 Census and currently representation of prices as of October 2023 with expected monthly update frequency.
+The data set is sourced from Kaggle about real estate listings for Canada's top 45 most populous cities (https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities) and is collected by the author from 2021 Census and currently representation of prices as of October 2023 with expected monthly update frequency.
 It consists of 35,769 rows and 10 columns and includes information like City names, prices, address, number of beds, number of baths, province names, population, location coordinates and median family income.
 # Folders
 Project files are divided among the following folders:
