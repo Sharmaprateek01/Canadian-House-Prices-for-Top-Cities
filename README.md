@@ -18,7 +18,10 @@ It consists of 35,769 rows and 10 columns and includes information like City nam
 Project files are divided among the following folders:
 
 •	Project Management: Project Brief
+
 •	Data: Original Data and Prepared Data
+
 •	Scripts: The Jupyter notebooks containing the coding for the analysis
+
 # Reports
 The Tableau Storyboard report for this analysis can be found here:_________. Not every element of the analysis is contained on the Tableau Storyboard, only the relevant and final results.
