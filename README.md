@@ -7,7 +7,7 @@ House prices in major Canadian cities showed substantial differences and raised 
 
 •	Does median family income have any effect on the housing market prices?
 
-•	What privacy laws need to be adhered to when collecting, storing, and analyzing housing market data?
+•	Does population play a role in the house price of the province?
 
 # Data
 The data set is sourced from Kaggle about real estate listings for Canada's top 45 most populous cities https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities and is collected by the author from 2021 Census and currently representation of prices as of October 2023 with expected monthly update frequency.
