@@ -3,9 +3,7 @@ House prices in major Canadian cities showed substantial differences and raised 
 # Key Questions
 •	What is the average house price across all provinces? How do average house prices vary by province?
 
-•	How do house prices differ based on the number of bedrooms and bathrooms?
-
-•	Does population density play a role in the house prices of each province?
+•	How do house prices differ based on the number of bedrooms and bathrooms? Houses with a higher number of bedrooms will also have a higher number of bathrooms?
 
 •	Does median family income have any effect on the housing market prices?
 
