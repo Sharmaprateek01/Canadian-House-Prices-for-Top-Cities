@@ -1,13 +1,12 @@
 # Canadian-House-Prices-for-Top-Cities
 House prices in major Canadian cities showed substantial differences and raised important issues for policymakers and researchers. Analyzing the distribution and trends of house prices among these cities is vital for understanding economic policies, housing affordability, and wealth disparities. Policymakers strive to maintain a stable housing market while addressing affordability concerns to promote inclusive urban development and ensure fair access to housing for all.
 # Key Questions
-•	What is the average house price across all provinces? How do average house prices vary by province?
+•	What is the average house price across all provinces?
 
-•	How do house prices differ based on the number of bedrooms and bathrooms? Houses with a higher number of bedrooms will also have a higher number of bathrooms?
+•	Does population and median family income play a role in the house price of the provinces?
 
-•	Does median family income have any effect on the housing market prices?
+•	What is the correlation of the number of bedrooms and number of bathrooms?
 
-•	Does population play a role in the house price of the province?
 
 # Data
 The data set is sourced from Kaggle about real estate listings for Canada's top 45 most populous cities https://www.kaggle.com/datasets/jeremylarcher/canadian-house-prices-for-top-cities and is collected by the author from 2021 Census and currently representation of prices as of October 2023 with expected monthly update frequency.
