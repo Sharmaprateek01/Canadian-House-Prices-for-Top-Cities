@@ -23,4 +23,4 @@ Project files are divided among the following folders:
 •	Scripts: The Jupyter notebooks containing the coding for the analysis
 
 # Reports
-The Tableau Storyboard report for this analysis can be found here:_________. Not every element of the analysis is contained on the Tableau Storyboard, only the relevant and final results.
+The Tableau Storyboard report for this analysis can be found here:[Storyboard](https://public.tableau.com/app/profile/prateek.sharma7184/viz/Canadianhousepricesfortopcities/Canadianhousepricefortopcities?publish=yes) Not every element of the analysis is contained on the Tableau Storyboard, only the relevant and final results.
